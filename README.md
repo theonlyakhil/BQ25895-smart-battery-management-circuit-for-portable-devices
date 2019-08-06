@@ -1,0 +1,1 @@
+# BQ25895-smart-battery-management-circuit-for-portable-devices
